@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Original Profile **![](https://github.com/devangchhajed)**
+Original Profile ![Devang Chhajed](https://github.com/devangchhajed)
 <!--
 **bw-devang-chhajed/bw-devang-chhajed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
